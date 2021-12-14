@@ -1,5 +1,11 @@
 # UnityPhotonPUNMMOLobbyRoomRotateJumpGame
-Unity Photon 使用 PUN 创建MMO 游戏
+Unity Photon 使用 PUN 创建MMO 游戏（简单的旋转跳跃游戏）
+
+操作说明：
+
+1、登录，创建房间，开始游戏
+
+2、点击屏幕操作，滑动-移动，单击-跳跃
 
 内容功能包括
 

@@ -32,3 +32,6 @@ Unity Photon 使用 PUN 创建MMO 游戏（简单的旋转跳跃游戏）
 11、退出游戏
 
 12、等
+
+## 应用截图
+Images/PUNGame截图1.jpg

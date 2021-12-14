@@ -35,3 +35,8 @@ Unity Photon 使用 PUN 创建MMO 游戏（简单的旋转跳跃游戏）
 
 ## 应用截图
 ![1](https://github.com/XANkui/UnityPhotonPUNMMOLobbyRoomRotateJumpGame/blob/main/Images/PUNGame%E6%88%AA%E5%9B%BE1.jpg)
+![2](https://github.com/XANkui/UnityPhotonPUNMMOLobbyRoomRotateJumpGame/blob/main/Images/PUNGame%E6%88%AA%E5%9B%BE2.jpg)
+![3](https://github.com/XANkui/UnityPhotonPUNMMOLobbyRoomRotateJumpGame/blob/main/Images/PUNGame%E6%88%AA%E5%9B%BE3.jpg)
+![4](https://github.com/XANkui/UnityPhotonPUNMMOLobbyRoomRotateJumpGame/blob/main/Images/PUNGame%E6%88%AA%E5%9B%BE4.jpg)
+![5](https://github.com/XANkui/UnityPhotonPUNMMOLobbyRoomRotateJumpGame/blob/main/Images/PUNGame%E6%88%AA%E5%9B%BE5.jpg)
+![6](https://github.com/XANkui/UnityPhotonPUNMMOLobbyRoomRotateJumpGame/blob/main/Images/PUNGame%E6%88%AA%E5%9B%BE6.jpg)
